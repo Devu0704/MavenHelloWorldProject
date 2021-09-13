@@ -8,7 +8,7 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
 
 trigger:
-- none
+- master
 
 pool:
   vmImage: ubuntu-latest
